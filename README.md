@@ -1,1 +1,1 @@
-# password-generator-module3
+# module-3-password-generator
